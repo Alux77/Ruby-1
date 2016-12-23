@@ -15,8 +15,8 @@ def deaf_grandma
       puts "HUH?! NO TE ESCUCHO, HIJO!"
     end
   end
-  while bye = 3
-    puts "D'oh, adios mijito"
+  while bye == 3
+    puts "¡¡D'OH, ADIOS MIJITO!!"
     break ; end
 end
 deaf_grandma
